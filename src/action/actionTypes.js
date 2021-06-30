@@ -1,0 +1,3 @@
+export const  GET_FLIGHT_DATA= 'GET_FLIGHT_DATA';
+
+export const  SET_FLIGHT_DATA= 'SET_FLIGHT_DATA';

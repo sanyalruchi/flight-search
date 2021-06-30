@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.flight-form{
+    width: 50%;
+    border: 2px solid grey;
+    padding: 20px;
+    align-self: center;
+}
+
+.label-style{
+    text-align: left;
+}
+
+.custom-btn {
+    background-color: orange !important;
+    color: white;
+    border: #fff !important;
+  }
